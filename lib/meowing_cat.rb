@@ -8,9 +8,5 @@ class Cat
     puts "meow!"
   end
 
-
-
-
-
 end
-# binding.pry
+binding.pry 
