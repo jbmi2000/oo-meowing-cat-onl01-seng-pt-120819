@@ -7,4 +7,4 @@ class Cat
 
 
 end
-binding.pry
+# binding.pry
