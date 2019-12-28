@@ -2,7 +2,13 @@
 require 'pry'
 class Cat
   attr_accessor :name, :meow
-  puts "meow!"
+  # "meow!"
+
+  def meow
+    puts "meow!"
+  end
+
+  
 
 
 
